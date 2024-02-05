@@ -1,0 +1,850 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.holabonjour.es" resolutions="1x" timestamp="1600260146489">
+  <folder name="css">
+    <file name="site_global.css" crc="4105268386"/>
+    <file name="master_a-master.css" crc="422848453" ref="politica-de-privacidad:aprende-frances-conocenos:envio-ok:aviso-legal:contacto:horarios-clases-frances-malaga:error-404:precios-curso-frances-malaga:preguntas-frecuentes:cursos-frances-malaga:index"/>
+    <file name="politica-de-privacidad.css" crc="485609079" ref="politica-de-privacidad"/>
+    <file name="aprende-frances-conocenos.css" crc="4239854609" ref="aprende-frances-conocenos"/>
+    <file name="envio-ok.css" crc="193575908" ref="envio-ok"/>
+    <file name="aviso-legal.css" crc="260981447" ref="aviso-legal"/>
+    <file name="contacto.css" crc="4088149944" ref="contacto"/>
+    <file name="horarios-clases-frances-malaga.css" crc="266963553" ref="horarios-clases-frances-malaga"/>
+    <file name="error-404.css" crc="52794304" ref="error-404"/>
+    <file name="precios-curso-frances-malaga.css" crc="410488937" ref="precios-curso-frances-malaga"/>
+    <file name="preguntas-frecuentes.css" crc="3928184265" ref="preguntas-frecuentes"/>
+    <file name="cursos-frances-malaga.css" crc="4040084213" ref="cursos-frances-malaga"/>
+    <file name="index.css" crc="41655822" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="contactsec.php" crc="511907455" seo="true" mt="1521718071000"/>
+    <file name="contactsec2.php" crc="33781718" seo="true" mt="1529476378000"/>
+    <file name="s3nuevo.jpg" crc="4182265480" seo="true" mt="1546428363000"/>
+    <file name="s4nuevo.jpg" crc="155224934" seo="true" mt="1546589923000"/>
+    <file name="movils4.jpg" crc="4201474915" seo="true" mt="1546794184000"/>
+    <file name="delf-dalf-2019.pdf" crc="425274909" seo="true" mt="1554388054000"/>
+    <file name="hoja-de-matricula-2019-verano-rellenar.pdf" crc="3831492202" seo="true" mt="1558426510000"/>
+    <file name="hoja-de-matrcula-2019-verano-rellenar.pdf" crc="4285692229" seo="true" mt="1558531836000"/>
+    <file name="hoja-de-matricula-2019-verano-rellenar2.pdf" crc="279724469" seo="true" mt="1559293382000"/>
+    <file name="sliderjulio2019.jpg" crc="205372162" seo="true" mt="1563793177000"/>
+    <file name="s3nuevo2.jpg" crc="4182265480" seo="true" mt="1563793898000"/>
+    <file name="clases-particulares.jpg" crc="234109694" seo="true" mt="1569492518000"/>
+    <file name="ninosados-web.jpg" crc="4126432227" seo="true" mt="1569492518000"/>
+    <file name="intensivo-enero-b2-web-.jpg" crc="4538981" seo="true" mt="1574937807000"/>
+    <file name="s1final.jpg" crc="4263130591" seo="true" mt="1581062369000"/>
+    <file name="s2final.jpg" crc="262827545" seo="true" mt="1581062417000"/>
+    <file name="s3nuevo3.jpg" crc="4182265480" seo="true" mt="1581061542000"/>
+    <file name="tarifas1.jpg" crc="493160146" seo="true" mt="1581425636000"/>
+    <file name="tarifa2.jpg" crc="232550151" seo="true" mt="1581425640000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>contacto:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:index:contacto:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>aprende-frances-conocenos:phone>precios-curso-frances-malaga:phone>contacto:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:contacto:aprende-frances-conocenos:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:phone>horarios-clases-frances-malaga:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:phone>horarios-clases-frances-malaga:tablet>index:index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:phone>horarios-clases-frances-malaga:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="phone>aprende-frances-conocenos:phone>precios-curso-frances-malaga:phone>preguntas-frecuentes:tablet>aprende-frances-conocenos:tablet>precios-curso-frances-malaga:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:aprende-frances-conocenos:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="form_check.php" crc="4108222811" ref="phone>contacto"/>
+    <file name="form_throttle.php" crc="503802655" ref="phone>contacto"/>
+    <file name="form_process.php" crc="260214869" ref="phone>contacto"/>
+    <file name="form-u12331.php" crc="3974050367" ref="phone>contacto"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes"/>
+    <file name="form-u12120.php" crc="109870957" ref="tablet>contacto"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="form-u4300.php" crc="3785991047" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3838185352" ref="phone>index"/>
+    <file name="svg-pegado-3925x57.svg" crc="314690979" seo="true" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes">
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="svg pegado 3925x57_poster_.png" crc="277743096" ref="phone>index"/>
+    <file name="logo-holabonjour-01.svg" crc="160387423" seo="true" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes">
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="logo holabonjour-01_poster_.png" crc="4023024279" ref="phone>index"/>
+    <file name="iconos-crop-u10507.png" crc="3760677844" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u10521.png" crc="464094697" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u10516.png" crc="346492201" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u10504.png" crc="383780475" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresa3.png" crc="3990833120" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pomovil2.jpg" crc="151825114" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 692058x529_poster_.png" crc="356848991" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Aprender francés en Málaga "/>
+      <caption webpage="index" alt="Aprender francés en Málaga"/>
+    </file>
+    <file name="galerianueva1175x132.jpg" crc="4060021496" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="librosfrances172x130.jpg" crc="4242364109" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio4177x133.jpg" crc="4190072579" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio2172x130.jpg" crc="320350179" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg4172x130.jpg" crc="375339816" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg5172x130.jpg" crc="3840197772" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg6172x130.jpg" crc="16899663" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg7172x130.jpg" crc="42378526" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7942172x130.jpg" crc="4022388748" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7895172x130.jpg" crc="58474380" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg8172x130.jpg" crc="3832103597" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7886172x130.jpg" crc="206756853" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7863172x130.jpg" crc="3902249772" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva2172x130.jpg" crc="4189633770" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio5172x130.jpg" crc="303650611" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio6172x130.jpg" crc="3914216777" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva1-crop-u10659.jpg" crc="409804198" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="librosfrances-crop-u10657.jpg" crc="409257846" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio4-crop-u10673.jpg" crc="4217009232" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio2-crop-u10675.jpg" crc="407520885" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg4-crop-u10669.jpg" crc="299981745" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg5-crop-u10645.jpg" crc="63117343" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg6-crop-u10663.jpg" crc="4176166619" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg7-crop-u10661.jpg" crc="3886549728" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7942-crop-u10647.jpg" crc="3873275046" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7895-crop-u10667.jpg" crc="3773314150" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg8-crop-u10655.jpg" crc="4175190802" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7886-crop-u10665.jpg" crc="322535832" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7863-crop-u10653.jpg" crc="3974377385" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva2-crop-u10649.jpg" crc="429259605" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio5-crop-u10651.jpg" crc="470942742" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio6-crop-u10671.jpg" crc="4145125084" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="first.svg" crc="4214889106" ref="phone>index:tablet>index:index"/>
+    <file name="first_poster_u3182.png" crc="154968947" ref="phone>index:tablet>index:index"/>
+    <file name="left-arrow.svg" crc="3949976111" ref="phone>index:tablet>index:index"/>
+    <file name="left-arrow_poster_u3195.png" crc="4189366824" ref="phone>index:tablet>index:index"/>
+    <file name="right-arrow.svg" crc="415473593" ref="phone>index:tablet>index:index"/>
+    <file name="right-arrow_poster_u3146.png" crc="3934377674" ref="phone>index:tablet>index:index"/>
+    <file name="last.svg" crc="3807741576" ref="phone>index:tablet>index:index"/>
+    <file name="last_poster_u3174.png" crc="412417395" ref="phone>index:tablet>index:index"/>
+    <file name="pasted-svg-36x36.svg" crc="3916680880" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 36x36_poster_.png" crc="4177793556" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="svg-pegado-99036x99.svg" crc="118453507" seo="true" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes">
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="svg pegado 99036x99_poster_.png" crc="423406979" ref="phone>index"/>
+    <file name="svg-pegado-99036x992.svg" crc="3956142656" seo="true" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes">
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="svg pegado 99036x99_poster_2.png" crc="498346467" ref="phone>index"/>
+    <file name="svg-pegado-99036x993.svg" crc="102213392" seo="true" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes">
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="svg pegado 99036x99_poster_3.png" crc="181830691" ref="phone>index"/>
+    <file name="youtubeicon2.svg" crc="4050117717" seo="true" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes">
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="youtubeicon2_poster_.png" crc="295472459" ref="phone>index"/>
+    <file name="eiffel-tower.png" crc="3997458806" seo="true" ref="phone>index:phone>aprende-frances-conocenos:phone>cursos-frances-malaga:phone>precios-curso-frances-malaga:phone>contacto:phone>envio-ok:phone>aviso-legal:phone>politica-de-privacidad:phone>error-404:phone>horarios-clases-frances-malaga:phone>preguntas-frecuentes:tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:tablet>envio-ok:tablet>aviso-legal:tablet>politica-de-privacidad:tablet>error-404:tablet>horarios-clases-frances-malaga:tablet>preguntas-frecuentes:index:envio-ok:contacto:aviso-legal:politica-de-privacidad:error-404:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga:preguntas-frecuentes">
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="preguntas-frecuentes" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="aviso-legal" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="politica-de-privacidad" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="conocenos2020-crop-u11087.jpg" crc="4085032445" seo="true" ref="phone>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt="Profesorado nativo de francés en málaga"/>
+    </file>
+    <file name="img_7979.jpg" crc="159902668" seo="true" ref="phone>aprende-frances-conocenos:aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="img_7863380x285.jpg" crc="296583869" seo="true" ref="phone>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="newg8376x282.jpg" crc="297456986" seo="true" ref="phone>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="svg-pegado-319963x311.svg" crc="495999841" seo="true" ref="phone>aprende-frances-conocenos:phone>cursos-frances-malaga:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:aprende-frances-conocenos:cursos-frances-malaga">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+    </file>
+    <file name="svg pegado 319963x311_poster_.png" crc="4055970519" ref="phone>aprende-frances-conocenos"/>
+    <file name="isabellecu311x376.jpg" crc="4246578815" seo="true" ref="phone>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="elodiecu295x357.jpg" crc="339209466" seo="true" ref="phone>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="formacion-crop-u11364.jpg" crc="410915071" seo="true" ref="phone>cursos-frances-malaga">
+      <caption webpage="cursos-frances-malaga" alt="Cursos de Francés en Málaga pera DELF Y DALF"/>
+    </file>
+    <file name="delfdalf.jpg" crc="253650148" seo="true" ref="phone>cursos-frances-malaga:tablet>cursos-frances-malaga:cursos-frances-malaga">
+      <caption webpage="cursos-frances-malaga" alt=""/>
+      <caption webpage="cursos-frances-malaga" alt=""/>
+    </file>
+    <file name="15925300_xl-crop-u11361.jpg" crc="4217434852" seo="true" ref="phone>cursos-frances-malaga">
+      <caption webpage="cursos-frances-malaga" alt=""/>
+    </file>
+    <file name="svg-pegado-678602x225.svg" crc="437575911" seo="true" ref="phone>precios-curso-frances-malaga:tablet>precios-curso-frances-malaga:tablet>horarios-clases-frances-malaga:precios-curso-frances-malaga:horarios-clases-frances-malaga">
+      <caption webpage="horarios-clases-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+      <caption webpage="precios-curso-frances-malaga" alt=""/>
+    </file>
+    <file name="svg pegado 678602x225_poster_.png" crc="421501963" ref="phone>precios-curso-frances-malaga"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="phone>contacto:tablet>contacto:contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="phone>contacto:tablet>contacto:contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="phone>contacto:tablet>contacto:contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="phone>contacto:tablet>contacto:contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="phone>contacto:tablet>contacto:contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="phone>contacto:tablet>contacto:contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="deo.png" crc="361718310" seo="true" ref="phone>envio-ok:phone>error-404:tablet>envio-ok:tablet>error-404:envio-ok:error-404">
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="envio-ok" alt=""/>
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+    </file>
+    <file name="pattern-overlay.png" crc="187653663" ref="phone>error-404:tablet>error-404:error-404">
+      <caption webpage="error-404" alt=""/>
+      <caption webpage="error-404" alt=""/>
+    </file>
+    <file name="95380038_xl (1)230x258.png" crc="3856481579" seo="true" ref="phone>error-404">
+      <caption webpage="error-404" alt=""/>
+    </file>
+    <file name="horarios-crop-u18451.jpg" crc="3942722619" seo="true" ref="phone>horarios-clases-frances-malaga">
+      <caption webpage="horarios-clases-frances-malaga" alt="Horarios de cursos intensivos de málaga"/>
+    </file>
+    <file name="preguntasmovil.jpg" crc="4062302495" seo="true" ref="phone>preguntas-frecuentes">
+      <caption webpage="preguntas-frecuentes" alt=""/>
+    </file>
+    <file name="iconos-crop-u8395.png" crc="383780475" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u8400.png" crc="3760677844" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u8407.png" crc="346492201" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u8414.png" crc="464094697" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pomtablet2.jpg" crc="4239276114" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva1-crop-u8357.jpg" crc="457455287" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="librosfrances-crop-u8359.jpg" crc="248016484" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio4-crop-u8387.jpg" crc="526596552" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio2-crop-u8381.jpg" crc="4060034435" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg4-crop-u8369.jpg" crc="3963649460" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg5-crop-u8365.jpg" crc="18066913" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg6-crop-u8371.jpg" crc="52950415" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg7-crop-u8367.jpg" crc="358116163" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7942-crop-u8373.jpg" crc="275640631" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7895-crop-u8375.jpg" crc="4159693202" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg8-crop-u8379.jpg" crc="104898607" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7886-crop-u8385.jpg" crc="57750802" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7863-crop-u8377.jpg" crc="3802786257" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva2-crop-u8383.jpg" crc="4171792557" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio5-crop-u8363.jpg" crc="203415591" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio6-crop-u8361.jpg" crc="3994061538" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva1-crop-u8324.jpg" crc="214175661" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="librosfrances-crop-u8308.jpg" crc="252849719" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio4-crop-u8314.jpg" crc="3983645506" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio2-crop-u8306.jpg" crc="229549532" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg4-crop-u8302.jpg" crc="4122867100" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg5-crop-u8326.jpg" crc="4179478988" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg6-crop-u8320.jpg" crc="255500142" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg7-crop-u8330.jpg" crc="315960148" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7942-crop-u8304.jpg" crc="3874645851" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7895-crop-u8310.jpg" crc="4175105187" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg8-crop-u8318.jpg" crc="3885802269" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7886-crop-u8300.jpg" crc="3970819708" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7863-crop-u8312.jpg" crc="51777659" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva2-crop-u8316.jpg" crc="4195731114" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio5-crop-u8328.jpg" crc="4220653950" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio6-crop-u8322.jpg" crc="3785376695" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha2-u3933-fr-u12614-fr.png" crc="440548759" ref="tablet>index:tablet>aprende-frances-conocenos:tablet>cursos-frances-malaga:tablet>precios-curso-frances-malaga:tablet>contacto:index:contacto:aprende-frances-conocenos:cursos-frances-malaga:precios-curso-frances-malaga"/>
+    <file name="conocenos2020768x269.jpg" crc="142565836" seo="true" ref="tablet>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt="Profesorado nativo de francés en málaga"/>
+    </file>
+    <file name="img_7979258x193.jpg" crc="474868749" seo="true" ref="tablet>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="img_7863258x194.jpg" crc="4031209169" seo="true" ref="tablet>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="newg8259x194.jpg" crc="4225229781" seo="true" ref="tablet>aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="img_7896.jpg" crc="3795658252" seo="true" ref="tablet>aprende-frances-conocenos:aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="formacion771x270.jpg" crc="4049886104" seo="true" ref="tablet>cursos-frances-malaga">
+      <caption webpage="cursos-frances-malaga" alt="Cursos de Francés en Málaga pera DELF Y DALF"/>
+    </file>
+    <file name="31662303_xl-crop-u9179.jpg" crc="4129810552" seo="true" ref="tablet>cursos-frances-malaga">
+      <caption webpage="cursos-frances-malaga" alt=""/>
+    </file>
+    <file name="svg-pegado-40239x69.svg" crc="4042594356" seo="true" ref="tablet>contacto:contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="svg pegado 40239x69_poster_.png" crc="476088028" ref="tablet>contacto"/>
+    <file name="95380038_xl (1).png" crc="3872145692" seo="true" ref="tablet>error-404:error-404">
+      <caption webpage="error-404" alt=""/>
+    </file>
+    <file name="horarios750x263.jpg" crc="113015330" seo="true" ref="tablet>horarios-clases-frances-malaga">
+      <caption webpage="horarios-clases-frances-malaga" alt="Horarios de cursos intensivos de málaga"/>
+    </file>
+    <file name="preguntasfrecuentes762x267.jpg" crc="58509609" seo="true" ref="tablet>preguntas-frecuentes">
+      <caption webpage="preguntas-frecuentes" alt=""/>
+    </file>
+    <file name="iconos-crop-u2998.png" crc="4153973617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u2988.png" crc="184680713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u3005.png" crc="364998905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-crop-u3012.png" crc="534066482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pompidu2.jpg" crc="67034399" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva1-crop-u3077.jpg" crc="3273959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="librosfrances-crop-u3343.jpg" crc="3972316825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio4-crop-u3820.jpg" crc="525580185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio2-crop-u3404.jpg" crc="331675766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg4-crop-u3431.jpg" crc="3904837350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg5-crop-u3729.jpg" crc="192542366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg6-crop-u3756.jpg" crc="272703856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg7-crop-u3783.jpg" crc="264847289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7942-crop-u3458.jpg" crc="3829461185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7895-crop-u3485.jpg" crc="4210348292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg8-crop-u3512.jpg" crc="4043997566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7886-crop-u3564.jpg" crc="3836367642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7863-crop-u3675.jpg" crc="164049805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva2-crop-u3702.jpg" crc="68829282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio5-crop-u3377.jpg" crc="4189066969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio6-crop-u3912.jpg" crc="3768701292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva1.jpg" crc="3901964135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="librosfrances.jpg" crc="475369903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio4.jpg" crc="232306848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio2.jpg" crc="4078662991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg4.jpg" crc="3934120646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg5.jpg" crc="122889548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg6.jpg" crc="382122107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg7.jpg" crc="4235973898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7942.jpg" crc="3819875802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7895.jpg" crc="209694043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newg8.jpg" crc="526559575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7886.jpg" crc="4119220952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7863.jpg" crc="4073819501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galerianueva2.jpg" crc="185508156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio5.jpg" crc="4095857737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="julio6.jpg" crc="4135089592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-pegado-22975x34.svg" crc="140641229" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="svg pegado 22975x34_poster_.png" crc="409398703" ref="contacto"/>
+    <file name="svg-pegado-45566x36.svg" crc="414733159" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="svg pegado 45566x36_poster_.png" crc="186807454" ref="contacto"/>
+    <file name="svg-pegado-31675x39.svg" crc="3872637952" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="svg pegado 31675x39_poster_.png" crc="4153156778" ref="contacto"/>
+    <file name="svg-pegado-36467x94.svg" crc="178217613" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="svg pegado 36467x94_poster_.png" crc="3816864855" ref="contacto"/>
+    <file name="conocenos2020.jpg" crc="4259060822" seo="true" ref="aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt="Profesorado nativo de francés en málaga"/>
+    </file>
+    <file name="img_7863432x324.jpg" crc="4134465070" seo="true" ref="aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="newg8432x324.jpg" crc="341355345" seo="true" ref="aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="isabellecu.jpg" crc="3853349615" seo="true" ref="aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="elodiecu.jpg" crc="3829971046" seo="true" ref="aprende-frances-conocenos">
+      <caption webpage="aprende-frances-conocenos" alt=""/>
+    </file>
+    <file name="formacion.jpg" crc="4094229794" seo="true" ref="cursos-frances-malaga">
+      <caption webpage="cursos-frances-malaga" alt="Cursos de Francés en Málaga pera DELF Y DALF"/>
+    </file>
+    <file name="15925300_xl-crop-u6732.jpg" crc="4245539352" seo="true" ref="cursos-frances-malaga">
+      <caption webpage="cursos-frances-malaga" alt=""/>
+    </file>
+    <file name="delf copia.jpg" crc="204506761" seo="true" ref="cursos-frances-malaga">
+      <caption webpage="cursos-frances-malaga" alt=""/>
+    </file>
+    <file name="horarios.jpg" crc="4104934044" seo="true" ref="horarios-clases-frances-malaga">
+      <caption webpage="horarios-clases-frances-malaga" alt="Horarios de cursos intensivos de málaga"/>
+    </file>
+    <file name="preguntasfrecuentes.jpg" crc="508985195" seo="true" ref="preguntas-frecuentes">
+      <caption webpage="preguntas-frecuentes" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4219252548" ref="tablet>politica-de-privacidad:tablet>envio-ok:tablet>index:tablet>aviso-legal:tablet>preguntas-frecuentes:tablet>aprende-frances-conocenos:tablet>horarios-clases-frances-malaga:tablet>contacto:tablet>precios-curso-frances-malaga:tablet>cursos-frances-malaga:tablet>error-404"/>
+      <file name="politica-de-privacidad.css" crc="269653926" ref="tablet>politica-de-privacidad"/>
+      <file name="envio-ok.css" crc="500817144" ref="tablet>envio-ok"/>
+      <file name="index.css" crc="3893894324" ref="tablet>index"/>
+      <file name="aviso-legal.css" crc="518883823" ref="tablet>aviso-legal"/>
+      <file name="preguntas-frecuentes.css" crc="4084220042" ref="tablet>preguntas-frecuentes"/>
+      <file name="aprende-frances-conocenos.css" crc="4083556377" ref="tablet>aprende-frances-conocenos"/>
+      <file name="horarios-clases-frances-malaga.css" crc="349520595" ref="tablet>horarios-clases-frances-malaga"/>
+      <file name="contacto.css" crc="4125525101" ref="tablet>contacto"/>
+      <file name="precios-curso-frances-malaga.css" crc="369719049" ref="tablet>precios-curso-frances-malaga"/>
+      <file name="cursos-frances-malaga.css" crc="512766574" ref="tablet>cursos-frances-malaga"/>
+      <file name="error-404.css" crc="327562098" ref="tablet>error-404"/>
+    </folder>
+    <file name="index.html" crc="1645402" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="aprende-frances-conocenos.html" crc="146966079" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="cursos-frances-malaga.html" crc="3898285075" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="precios-curso-frances-malaga.html" crc="359233630" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="contacto.html" crc="315481996" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="envio-ok.html" crc="3885969881" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="aviso-legal.html" crc="398340697" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="politica-de-privacidad.html" crc="501812039" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="error-404.html" crc="3915376846" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="horarios-clases-frances-malaga.html" crc="4286376687" seo="true" mt="1600260100212" redirect="true"/>
+    <file name="preguntas-frecuentes.html" crc="245754528" seo="true" mt="1600260100212" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="372725147" ref="phone>error-404:phone>aviso-legal:phone>envio-ok:phone>politica-de-privacidad:phone>contacto:phone>preguntas-frecuentes:phone>cursos-frances-malaga:phone>aprende-frances-conocenos:phone>precios-curso-frances-malaga:phone>horarios-clases-frances-malaga:phone>index"/>
+      <file name="error-404.css" crc="3840328162" ref="phone>error-404"/>
+      <file name="aviso-legal.css" crc="4200753411" ref="phone>aviso-legal"/>
+      <file name="envio-ok.css" crc="186372506" ref="phone>envio-ok"/>
+      <file name="politica-de-privacidad.css" crc="294542077" ref="phone>politica-de-privacidad"/>
+      <file name="contacto.css" crc="3851995199" ref="phone>contacto"/>
+      <file name="preguntas-frecuentes.css" crc="401133152" ref="phone>preguntas-frecuentes"/>
+      <file name="cursos-frances-malaga.css" crc="4085872576" ref="phone>cursos-frances-malaga"/>
+      <file name="aprende-frances-conocenos.css" crc="149372571" ref="phone>aprende-frances-conocenos"/>
+      <file name="precios-curso-frances-malaga.css" crc="4289263161" ref="phone>precios-curso-frances-malaga"/>
+      <file name="horarios-clases-frances-malaga.css" crc="4058550340" ref="phone>horarios-clases-frances-malaga"/>
+      <file name="index.css" crc="3804624406" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="379235815" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="aprende-frances-conocenos.html" crc="503025211" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="cursos-frances-malaga.html" crc="4086900520" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="precios-curso-frances-malaga.html" crc="79431772" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="contacto.html" crc="534919758" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="envio-ok.html" crc="424731734" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="aviso-legal.html" crc="106847393" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="politica-de-privacidad.html" crc="290339983" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="error-404.html" crc="4209627412" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="horarios-clases-frances-malaga.html" crc="3845881755" seo="true" mt="1600260089377" redirect="true"/>
+    <file name="preguntas-frecuentes.html" crc="4051848982" seo="true" mt="1600260089377" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="312280473" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="envio-ok.html" crc="19818562" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="contacto.html" crc="3892702946" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="aviso-legal.html" crc="261325234" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="politica-de-privacidad.html" crc="3961984036" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="error-404.html" crc="351812210" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="aprende-frances-conocenos.html" crc="3793285809" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="cursos-frances-malaga.html" crc="498131180" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="precios-curso-frances-malaga.html" crc="4186513550" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="horarios-clases-frances-malaga.html" crc="4110663969" seo="true" mt="1600259536409" redirect="true"/>
+  <file name="preguntas-frecuentes.html" crc="3958114551" seo="true" mt="1600259536409" redirect="true"/>
+</manifest>

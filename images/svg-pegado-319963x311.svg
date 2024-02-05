@@ -1,0 +1,29 @@
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="319.963px" height="311.484px" viewBox="0 0 319.963 311.484"
+	 style="enable-background:new 0 0 319.963 311.484;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#334094;stroke:#EDEDED;stroke-width:5;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#EDEDED;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:#D61E34;stroke:#EDEDED;stroke-width:5;stroke-miterlimit:10;}
+	.st4{clip-path:url(#SVGID_4_);}
+</style>
+<defs>
+</defs>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="161.993" cy="155.492" r="152.992"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect x="2.5" y="4" class="st1" width="104.988" height="304.984"/>
+		<rect x="107.92" y="4" class="st2" width="104.988" height="304.984"/>
+		<rect x="212.476" y="4" class="st3" width="104.988" height="304.984"/>
+	</g>
+	<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:none;stroke:#EDEDED;stroke-width:5;stroke-miterlimit:10;"/>
+</g>
+</svg>
